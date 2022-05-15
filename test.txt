@@ -5,3 +5,5 @@ fourth string
 
 fifth string
 sixth string
+seventh string
+eighth string
